@@ -93,6 +93,14 @@ Jika sudah create table dan type, maka akan muncul seperti ini
 
 ![image](https://github.com/user-attachments/assets/7b790331-f16e-47bb-891e-1a4128223048)
 
+```sql
+# Memasukkan data ke tabel
+insert into users (full_name, date_of_birth, address, email, phone_number)
+values
+('Neris','2002-03-04','Tangerang','nerissa123@gmail.com','012345678901');
 
+# Untuk validasi data
+select * from users where full_name = 'Neris';
+```
 
 
