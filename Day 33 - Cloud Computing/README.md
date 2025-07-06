@@ -92,10 +92,41 @@ Layanan platform lengkap untuk develop dan deploy aplikasi. Developer hanya foku
 
 ***Kelebihan*** : Developer bisa fokus pada kode, deployment dan scaling otomatis, cocok untuk prototyping dan MVP, serta hemat biaya & waktu pengembangan.
 
-***Kekurangan*** : Fleksibilitas terbatas, tergantung bahasa/framework tertentu, dan vendor lock-in (sulit migrasi)
+***Kekurangan*** : Fleksibilitas terbatas, tergantung bahasa/framework tertentu, dan vendor lock-in (sulit migrasi).
 
-***Contoh Layanan*** : Heroku, Firebase, Vercel, Netlify, Google App Engine, dan Azure App Services
+***Contoh Layanan*** : Heroku, Firebase, Vercel, Netlify, Google App Engine, dan Azure App Services.
 
+**SaaS (Software as a Service)**
+
+Layanan software jadi yang langsung siap digunakan oleh pengguna tanpa perlu install atau maintain.
+
+***Kelebihan*** : Tidak perlu install aplikasi, bisa diakses dari mana saja, dan hemat biaya operasional.
+
+***Kekuranga*** : Kustomisasi terbatas dan ketergantungan pada provider.
+
+***Contoh Layanan*** : Google Workspace (Docs, Gmail); Microsoft 365, Dropbox, Salesforce, Slack, dan JIRA.
+
+**UCaaS (Unified Communication as a Service)**
+
+Layanan cloud untuk komunikasi dan kolaborasi seperti voice, video call, chat, dan meeting tools.
+
+**Contoh Layanan** : Zoom, Microsoft Teams, Google Hangouts, Fuze, dan Jive.
+
+**FaaS (Function as a Service) - Subset dari Serverless**
+
+Model eksekusi fungsi kecil berdasarkan event tertentu, tanpa perlu kelola server.
+
+***Kelebihan*** : Hanya bayar saat fungsi dijalankan, tidak perlu kelola infrastruktur, dan cocok untuk aplikasi microservices dan event-driven.
+
+***Kekurangan*** : Cold start latency dan tidak cocok untuk aplikasi stateful atau long-running.
+
+***Contoh Layanan*** : AWS Lambda, Google Cloud Functions. dan Azure Functions.
+
+**XaaS (Anything as a Service)**
+
+Istilah umum untuk semua model layanan berbasis cloud
+
+**Contoh** : DBaaS, CaaS, BaaS, STaaS, DRaaS dan lainnya.
 
 
 
