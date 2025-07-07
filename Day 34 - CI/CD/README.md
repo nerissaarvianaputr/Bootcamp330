@@ -72,6 +72,14 @@ Setup di sisi SonarQube
    
 ![image](https://github.com/user-attachments/assets/3f68b462-d9bf-48dc-baa8-315b7c899377)
 
+5. Klik 'Generate' untuk mendapatkan token
+
+![image](https://github.com/user-attachments/assets/fefee31f-bc5f-4e5e-807a-beb1160fe457)
+
+6. Masukkan Jenkinsfile ke dalam VSCode
+
+
+
 
 **Jenkins**
 
