@@ -397,7 +397,7 @@ pipeline {
 
 ![image](https://github.com/user-attachments/assets/004c0237-d9e5-44de-8835-be59ea6382ee)
 
-
+A/B Testing: User tertentu berdasarkan country mendapatkan versi terbaru.
 
 
 
@@ -408,6 +408,13 @@ pipeline {
 pipeline script : Jenkinsfile nya di dalam script di jenkins
 pipeline SCM : Jenkinsfile nya di dalam source code di repository
 
+
+Pyramid Test
+
+Unit Testing : Testing xcope nya function
+Integration Testing : jika punya third party, harus hit third party
+End to end Testing : spesifik ke bisnis dari sisi login, transaksi .
+Katalon
 
 
 
